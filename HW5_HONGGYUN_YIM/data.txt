@@ -1,0 +1,8 @@
+Tue Apr  5 22:13:36 2022: Device1: Temp=15, Humid=82, lilum=108
+Tue Apr  5 22:13:36 2022: Device1: Temp=20, Humid=19, lilum=143
+Tue Apr  5 22:13:37 2022: Device2: Heartbeat=105, Steps=2082, Cal=2611
+Tue Apr  5 22:13:38 2022: Device2: Heartbeat=68, Steps=2060, Cal=2829
+Tue Apr  5 22:13:39 2022: Device1: Temp=4, Humid=33, lilum=133
+Tue Apr  5 22:13:39 2022: Device1: Temp=3, Humid=80, lilum=138
+Tue Apr  5 22:13:40 2022: Device2: Heartbeat=140, Steps=4935, Cal=3645
+Tue Apr  5 22:13:40 2022: Device2: Heartbeat=60, Steps=5965, Cal=2695
